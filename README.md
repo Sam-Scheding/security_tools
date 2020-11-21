@@ -10,12 +10,16 @@ Currently implemented tools are:
 
 ## Installation
 
+```
 $ python3.8 -m venv env
 $ source ./env/bin/activate
 $ pip install -r requirements.txt
+```
 
 ## Running
 
 Simply modify main.py to uncomment the tool you need, and then run:
 
+```
 $ python main.py
+```
